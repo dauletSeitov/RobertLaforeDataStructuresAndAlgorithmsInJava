@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BubbleSort {
+public class SelectionSort {
 
 
 	public static void main(String[] args) {
