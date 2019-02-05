@@ -35,7 +35,7 @@ public class MergeSort {
 
 	private void merge (int[] workSpace, int lowPtr, int highPtr, int upperBound) {
 
-		int j = 0;
+	/*	int j = 0;
 		// workspace index
 		int lowerBound = lowPtr;
 		int mid = highPtr-1;
@@ -55,7 +55,7 @@ public class MergeSort {
 			workSpace[j++] = theArray[highPtr++];
 		
 		for(j=0; j<n; j++)
-			theArray[lowerBound+j] = workSpace[j];
+			theArray[lowerBound+j] = workSpace[j];*/
 		
 
 	}
